@@ -1,0 +1,60 @@
+{
+  "audiovisual_files": {
+    "db9b5dce-f61b-405f-b805-f85a30a3c23d": {
+      "label": "That Great Atomic Power",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/78_the-great-atomic-power_louvin-brothers-ira-and-charles-i-louvin-c-louvin-bain_gbia0405663a/THE%20GREAT%20ATOMIC%20POWER%20-%20LOUVIN%20BROTHERS%20%28Ira%20and%20Charles%29.mp3",
+      "duration": 170
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Louvin Brothers were an American musical duo composed of brothers Ira and Charlie Louvin (né Loudermilk). The brothers are cousins to John D. Loudermilk, a Nashville Songwriters Hall of Fame member."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The brothers wrote and performed country, bluegrass, and gospel music. Ira played mandolin and generally sang lead vocal in the tenor range, while Charlie played rhythm guitar and offered supporting vocals in a lower pitch. They helped popularize the vocal technique of close harmony in country and country-rock.[1]"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "After becoming regulars at the Grand Ole Opry and scoring a string of hit singles in the late 1950s and early '60s, the Louvin Brothers broke up in 1963 due in large part to Charlie growing tired of Ira's addictions and reckless behavior. Ira died in a traffic accident in 1965. They were inducted into the Country Music Hall of Fame in 2001, and Charlie died of cancer in 2011. Rolling Stone ranked the Louvin Brothers number four on its list of the 20 Greatest Duos of All Time.[2]"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Great Atomic Power (Louvin Brothers)",
+  "created_at": "2024-09-16T17:54:03.426Z",
+  "created_by": "benwbrum",
+  "updated_at": "2024-09-16T17:54:03.426Z",
+  "updated_by": "benwbrum"
+}
